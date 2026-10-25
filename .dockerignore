@@ -1,0 +1,10 @@
+*
+!src/
+!scripts/
+!package.json
+!package-lock.json
+!vite.config.ts
+!tsconfig.json
+!tsconfig.build.json
+!config/
+!bundles/redoc.standalone.js
